@@ -11,7 +11,7 @@
   <title>Aricelio Moura | Software Engineer</title>
   <meta property="og:title" content="Nome do Site">
 
-  <!-- Descrição do site -->
+  <!-- Descrição do web site -->
   <meta name="description" content="Página de apresentação para biolink do meu portfólio de desenvolvimento web.">
   <meta itemprop="description" content="Página de apresentação para biolink do meu portfólio de desenvolvimento web.">
   <meta property="og:description" content="Página de apresentação para biolink do meu portfólio de desenvolvimento web.">
